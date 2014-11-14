@@ -26,6 +26,6 @@ create table reviews (
 	content					varchar(500) not null,
 	last_modified			timestamp,
 	foreign key(bookid) references books(id),
-	foreign key(username) references user(username)
+	foreign key(username) references users(username)
 	
 );
