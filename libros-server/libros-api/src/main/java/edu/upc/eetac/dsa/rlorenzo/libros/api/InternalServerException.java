@@ -1,9 +1,9 @@
-package edu.upc.eetac.dsa.rgonzalez.libros.api;
+package edu.upc.eetac.dsa.rlorenzo.libros.api;
 
 import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.Response;
 
-import edu.upc.eetac.dsa.rgonzalez.libros.api.model.BookError;
+import edu.upc.eetac.dsa.rlorenzo.libros.api.model.BookError;
 
 public class InternalServerException extends WebApplicationException {
 	public InternalServerException(String message) {

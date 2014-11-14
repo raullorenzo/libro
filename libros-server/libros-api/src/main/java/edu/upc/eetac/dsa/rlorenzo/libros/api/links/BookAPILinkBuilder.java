@@ -1,12 +1,12 @@
-package edu.upc.eetac.dsa.rgonzalez.libros.api.links;
+package edu.upc.eetac.dsa.rlorenzo.libros.api.links;
 
 import javax.ws.rs.core.UriBuilder;
 import javax.ws.rs.core.UriInfo;
 
-import edu.upc.eetac.dsa.rgonzalez.libros.api.BookResource;
-import edu.upc.eetac.dsa.rgonzalez.libros.api.MediaType;
-import edu.upc.eetac.dsa.rgonzalez.libros.api.BookRootAPIResource;
-import edu.upc.eetac.dsa.rgonzalez.libros.api.model.Book;
+import edu.upc.eetac.dsa.rlorenzo.libros.api.BookResource;
+import edu.upc.eetac.dsa.rlorenzo.libros.api.MediaType;
+import edu.upc.eetac.dsa.rlorenzo.libros.api.BookRootAPIResource;
+import edu.upc.eetac.dsa.rlorenzo.libros.api.model.Book;
 
 import java.net.URI;
 

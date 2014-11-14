@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalez.libros.api.links;
+package edu.upc.eetac.dsa.rlorenzo.libros.api.links;
 
 public class Link {
 	private String uri;

@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalez.libros.api;
+package edu.upc.eetac.dsa.rlorenzo.libros.api;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
